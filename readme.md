@@ -19,3 +19,5 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/israc0d33/israc0d33/output/snake.svg" alt="Snake animation">
+
+[![An image of @israc0d33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/israc0d33)](https://holopin.io/@israc0d33)
