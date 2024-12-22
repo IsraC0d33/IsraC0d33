@@ -17,19 +17,22 @@ Soy Isra, **desarrollador web**. Me interesa trabajar con **tecnologías moderna
 ### **[Routify](https://github.com/IsraC0d33/routify)** 🎯
 Un mapa interactivo para personalizar rutas y sugerir puntos de interés. Perfecto para aquellos que buscan explorar de manera inteligente.
 
-🔧 **Tecnologías**: *Por decidir*
-📍 **Puntos clave**:
-- *Por decidir*
+🔧 **Tecnologías**: 
+- Por decidir
+
+🎯 **Características**:
+- Por decidir
 
 ---
 
 ### **[VIAjero](https://github.com/IsraC0d33/viajero)** 🌍
 Una app donde la IA guía al usuario a través de rutas personalizadas para actividades turísticas. Elige tu destino y VIAjero se encarga del resto.
 
-🔧 **Tecnologías**: *Por decidir*
+🔧 **Tecnologías**: 
+- Por decidir
+
 🎯 **Características**:
-- Optimización de rutas para diferentes modos de transporte.
-- Recomendaciones de puntos de interés cercanos.
+- Por decidir
 
 ---
 
