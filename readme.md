@@ -1,23 +1,56 @@
-<div align="center">
-  <h2 align="center">Hola 👋!</h2>
+# ¡Hola, soy Isra! 👋
+### Desarrollador web | Construyendo aplicaciones web eficientes y escalables | Apasionado por el desarrollo frontend y backend
 
-<p>-- Informacion sobre mi --</p>
+Bienvenido a mi GitHub. Aquí puedes explorar mis proyectos y el código que he desarrollado. Si te interesa el desarrollo web y las tecnologías actuales, ¡estás en el lugar adecuado!
 
-<div align="center">
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="Astro" title="Astro"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-</div>
+## Sobre mí 🪴
+Soy Isra, **desarrollador web**. Me interesa trabajar con **tecnologías modernas**, mejorar continuamente mis habilidades y desarrollar **aplicaciones web funcionales**.
 
-</div>
+🧰 Herramientas y tecnologías que uso:
+- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)
+- **Backend**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- **Bases de datos**: ![MongoDB](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israc0d33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=israc0d33&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israc0d33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false" height="150" alt="languages graph"  />
+## 🚀 Proyectos Destacados
 
-  
-</div>
+### **[Routify](https://github.com/tu-usuario/routify)** 🎯
+Un mapa interactivo para personalizar rutas y sugerir puntos de interés. Perfecto para aquellos que buscan explorar de manera inteligente.
 
-<img src="https://raw.githubusercontent.com/israc0d33/israc0d33/output/snake.svg" alt="Snake animation">
+🔧 **Tecnologías**: *Por decidir*
+📍 **Puntos clave**:
+- *Por decidir*
 
-[![An image of @israc0d33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/israc0d33)](https://holopin.io/@israc0d33)
+---
+
+### **[VIAjero](https://github.com/tu-usuario/viajero)** 🌍
+Una app donde la IA guía al usuario a través de rutas personalizadas para actividades turísticas. Elige tu destino y VIAjero se encarga del resto.
+
+🔧 **Tecnologías**: *Por decidir*
+🎯 **Características**:
+- Optimización de rutas para diferentes modos de transporte.
+- Recomendaciones de puntos de interés cercanos.
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IsraC0d33&show_icons=true&theme=radical)
+
+## 🏆 Logros y badges
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraC0d33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📬 ¡Conversemos! 📬
+Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme:
+
+- **Correo**: [isorianobuendia@gmail.com](mailto:isorianobuendia@gmail.com)
+- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/israel-soriano)
+
+¡Estaré encantado de hablar sobre nuevos proyectos o ideas! 🙌
+
+## 🌐 Otros Enlaces
+- [Portafolio](#) 🔧*(Trabajando en ello)*
+
+---
+
+¡Gracias por visitar mi perfil! 😄 Si estás interesado en alguno de mis proyectos o quieres colaborar en algo, no dudes en contactarme. ¡Vamos a crear algo increíble juntos! 🚀
