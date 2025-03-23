@@ -12,27 +12,6 @@ Soy Isra, **desarrollador web**. Me interesa trabajar con **tecnologías moderna
 - **Bases de datos**: ![MongoDB](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - **Herramientas**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 🚀 Proyectos Destacados
-
-### **[Routify](https://github.com/IsraC0d33/routify)** 🎯
-Un mapa interactivo para personalizar rutas y sugerir puntos de interés. Perfecto para aquellos que buscan explorar de manera inteligente.
-
-🔧 **Tecnologías**: 
-- Por decidir
-
-🎯 **Características**:
-- Por decidir
-
----
-
-### **[VIAjero](https://github.com/IsraC0d33/viajero)** 🌍
-Una app donde la IA guía al usuario a través de rutas personalizadas para actividades turísticas. Elige tu destino y VIAjero se encarga del resto.
-
-🔧 **Tecnologías**: 
-- Por decidir
-
-🎯 **Características**:
-- Por decidir
 
 ---
 
