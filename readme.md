@@ -35,4 +35,10 @@ Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no du
 
 ---
 
+¡Mira cómo contribuyo a GitHub! 🐍
+
+![GitHub Snake Dark](https://github.com/IsraC0d33/IsraC0d33/blob/output/github-snake-dark.svg)
+
+---
+
 ¡Gracias por visitar mi perfil! 😄 Si estás interesado en alguno de mis proyectos o quieres colaborar en algo, no dudes en contactarme. ¡Vamos a crear algo increíble juntos! 🚀
