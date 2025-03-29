@@ -30,9 +30,6 @@ Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no du
 
 ¡Estaré encantado de hablar sobre nuevos proyectos o ideas! 🙌
 
-## 🌐 Otros Enlaces
-- [Portafolio](#) 🔧*(Trabajando en ello)*
-
 ---
 
 ¡Mira cómo contribuyo a GitHub! 🐍
